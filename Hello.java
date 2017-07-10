@@ -15,7 +15,8 @@ public class Hello
 	}
 
 	public static int add(int x, int y) {
-		return x + y;
+		int a = x + y;
+		return a;
 	}
 }
 >>>>>>> 0a854a9b7e1ca27308a320ff2b0dee6ca0b657ac
